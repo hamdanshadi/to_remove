@@ -1,2 +1,2 @@
 # to_remove
-Demo repository
+Demo repository for Concepts of Data Science.
