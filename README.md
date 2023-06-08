@@ -2,7 +2,11 @@
 
 Demo repository for concept of Data Science...
 
-adding new line
+Adding new line
+
+Todo
+* show conflict 
+* move a file
 
 
 
