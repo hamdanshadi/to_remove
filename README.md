@@ -1,7 +1,7 @@
 # to_remove
 
 Demo repository for concept of Data Science...
-> My innocent little change
+> My scary merge conflict code 
 Adding new line
 
 Todo
