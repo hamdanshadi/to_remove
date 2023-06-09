@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print('hello world!')
+print('update python with merge conflict demo')
